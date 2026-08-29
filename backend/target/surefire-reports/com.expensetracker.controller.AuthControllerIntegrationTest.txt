@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.expensetracker.controller.AuthControllerIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.40 s -- in com.expensetracker.controller.AuthControllerIntegrationTest

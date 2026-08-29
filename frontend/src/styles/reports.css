@@ -1,0 +1,29 @@
+.reports-page {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.export-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.report-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.custom-dates {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.custom-dates .form-group {
+  flex: 1;
+  min-width: 200px;
+}
